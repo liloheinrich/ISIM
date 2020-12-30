@@ -9,6 +9,10 @@ ISIM is a laboratory based first-year course at Olin College in which I built ci
 
 -------------------------
 
+## Course Details
+
+The course website and textbook can be found [here](http://faculty.olin.edu/bstorey/isim.asp) for reference.
+
 The course goals are to:
 
 - teach the basic concepts and skills related to building and analyzing analog circuits
