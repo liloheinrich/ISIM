@@ -1,6 +1,6 @@
 # Introduction to Sensors, Instrumentation, and Measurement (ISIM) Coursework
 
-ISIM is a laboratory based first-year course at Olin College in which I built circuits and conducted experiments. My coursework included 10 problem sets, 9 lab reports, and one final project. Check out my (Ultrasonic Rangefinder Lab Report)["./BestAssignments/ISIM_Lab_Report_10_Ultrasonic.pdf"].
+ISIM is a laboratory based first-year course at Olin College in which I built circuits and conducted experiments. My coursework included 10 problem sets, 9 lab reports, and one final project. Check out my [Ultrasonic Rangefinder Lab Report]("./BestAssignments/ISIM_Lab_Report_10_Ultrasonic.pdf").
 
 -------------------------
 
