@@ -1,7 +1,5 @@
 frequency ranges of light color
 photodiode (leds, resistors, potentiometer, op amps)
-
 hexadecimal
-
 leds
 
