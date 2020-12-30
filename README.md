@@ -1,5 +1,4 @@
-# ISIM
-## Introduction to Sensors, Instrumentation, and Measurement (ISIM) Coursework
+# Introduction to Sensors, Instrumentation, and Measurement (ISIM) Coursework
 
 ISIM is a laboratory based first-year course at Olin College in which I built circuits and conducted experiments. 
 
