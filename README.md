@@ -8,4 +8,4 @@ The course goals are to:
 - cover the fundamental concepts for circuit analysis
 - follow the broader themes of making measurements, doing real experiments, and analyzing data
 - emphasize making electronic measurements
-  - This is because many measurements we make in science and engineering are through sensors, circuits, and computer-based data acquisition.
+  - Many measurements we make in science and engineering are through sensors, circuits, and computer-based data acquisition.
