@@ -1,6 +1,6 @@
 # Introduction to Sensors, Instrumentation, and Measurement (ISIM) Coursework
 
-ISIM is a laboratory based first-year course at Olin College in which I built circuits and conducted experiments. My coursework included 10 problem sets, 9 lab reports, and one final project. Check out some of my favorite labs: 
+ISIM is a laboratory based first-year course at Olin College in which I built circuits and conducted experiments. My coursework included 10 problem sets, 9 lab reports, and one final project. My final project was to create and calibrate a [color sensor using photoresistors](https://github.com/liloheinrich/ISIM/blob/main/Final%20Project/ISIM%20Final%20Project%20Report.pdf). Also check out some of my favorite labs: 
 
 - [Electrocardiogram](https://github.com/liloheinrich/ISIM/blob/main/Labs/Lab%205%20Electrocardiogram/EKG_ISIM_Lab_Report.pdf)
 - [Blood Pressure measurement](https://github.com/liloheinrich/ISIM/blob/main/Labs/Lab%206%20Blood%20Pressure/BP_ISIM_Lab_Report.pdf)
