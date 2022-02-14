@@ -40,10 +40,13 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - John Adams
 - Thomas Jefferson
 
+End list
 
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
+End list
 
 1. First list item
    - First nested list item
