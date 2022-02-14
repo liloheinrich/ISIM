@@ -30,9 +30,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [Relative Link Example](Pset 6/Pset 6.m)
 
 
-[Link to Heading](#the-largest-heading)
+Link to [Heading](#the-largest-heading)
 
 Link to [Heading]
+
+Link to [Second Heading]
 
 Heading
 --------
