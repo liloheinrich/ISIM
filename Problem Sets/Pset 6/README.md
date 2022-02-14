@@ -30,9 +30,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [Relative Link Example](Pset 6/Pset 6.m)
 
 
-[Go to Real Cool Heading section](#the-largest-heading)
+[Link to Heading](#the-largest-heading)
 
-I want to link to [Heading] without having to type [Heading].
+Link to [Heading]
 
 Heading
 --------
