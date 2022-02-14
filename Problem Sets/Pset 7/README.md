@@ -1,7 +1,7 @@
 # Barber of Seville - Orchestra Parts (OP) 
 
 - [Violin (vln) link](./`Pset 7`.pdf)
-- [Viola (vla) link]("Pset 7.pdf")
+- [Viola (vla) link](Pset%207.pdf)
 - [Viola (vla) link](./"Pset 7.pdf")
 - [Viola (vla) link]("Pset 7".pdf)
 - [Viola (vla) link](./"Pset 7".pdf)
