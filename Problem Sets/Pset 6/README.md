@@ -17,7 +17,6 @@ Testing out Markdown tricks from [This Page](https://docs.github.com/en/get-star
 
 ~~Strikethrough ~~
 
-***Bold and Italic ***
 
 Text that is not a quote
 
