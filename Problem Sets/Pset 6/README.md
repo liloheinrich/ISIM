@@ -1,9 +1,3 @@
-# Problem Set 6
-
-- MATLAB data collection code [here](https://github.com/liloheinrich/ISIM/blob/archive_testing_2022/Problem%20Sets/Pset%206/pset%206.m)
-- 5 sets of data saved in csv form
-
-
 Testing out Markdown tricks from [This Page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 
 
