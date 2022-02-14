@@ -33,7 +33,7 @@ git commit
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-[Relative Link Example](../Pset 7/data.csv)
+[Relative Link Example](../Pset 7/Pset 7.csv)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - George Washington
