@@ -32,16 +32,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 Link to [Heading](#the-largest-heading)
 
-Link to [Heading]
+Link to [Sub Heading]
 
-Link to [Second Heading]
+Sub Heading
+-----------
 
-Heading
---------
-
-... more copy here as needed...
-
-[Heading]: #heading
+[Sub Heading]: #heading
 
 Section links
 
