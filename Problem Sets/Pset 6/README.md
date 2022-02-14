@@ -11,13 +11,13 @@ Testing out Markdown tricks from [This Page](https://docs.github.com/en/get-star
 ## The second largest heading
 ###### The smallest heading
 
-** Bold **
+**Bold**
 
-* Italic *
+*Italic*
 
-~~ Strikethrough ~~
+~~Strikethrough ~~
 
-*** Bold and Italic ***
+***Bold and Italic ***
 
 Text that is not a quote
 
