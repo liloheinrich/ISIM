@@ -35,9 +35,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Relative Link Example](Pset 6/Pset 6.m)
 
-#Real Cool Heading
 
-[Go to Real Cool Heading section](#real-cool-heading)
+[Go to Real Cool Heading section](#the-largest-heading)
  
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
