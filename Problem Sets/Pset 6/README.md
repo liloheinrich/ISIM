@@ -34,6 +34,9 @@ git commit
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Relative Link Example](Pset 6/Pset 6.m)
+[Go to Real Cool Heading section](#real-cool-heading)
+ 
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - George Washington
@@ -51,14 +54,6 @@ End list
 1. First list item
    - First nested list item
      - Second nested list item
-
-100. First list item
-     - First nested list item
-
-100. First list item
-     - First nested list item
-       - Second nested list item
-
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
