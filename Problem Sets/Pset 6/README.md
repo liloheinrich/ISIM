@@ -39,11 +39,6 @@ Sub Heading
 
 [Sub Heading]: #heading
 
-Section links
-
-You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
- 
- 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
