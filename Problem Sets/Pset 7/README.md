@@ -2,7 +2,7 @@
 
 Alternate names: Il barbiere di Siviglia, Der Barbier (von Sevilla), The Barber of Seville
 
-(idea: make works searchable by other language titles)
+(^ idea: make works searchable by other language titles)
 
 - [Viola (vla) link](Pset%207.pdf)
 - [Viola (vla) link](../Pset%208/Pset%208.pdf)
