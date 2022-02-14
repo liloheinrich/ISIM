@@ -37,6 +37,20 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 [Go to Real Cool Heading section](#the-largest-heading)
+
+I want to link to [Heading] without having to type [Heading].
+
+Heading
+--------
+
+... more copy here as needed...
+
+[Heading]: #heading
+
+Section links
+
+You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
+ 
  
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
